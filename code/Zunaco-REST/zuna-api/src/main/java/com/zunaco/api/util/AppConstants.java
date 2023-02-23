@@ -18,7 +18,7 @@ public class AppConstants {
 	//		+ AppConstants.AUTH_SOURCE_DB;
 
  	//Connect with authentication
-        public static final String MONGO_CLIENT_URI = mongodb://zunaSuperAdmin:zuna123987@mongo-db:27017/admin
+        public static final String MONGO_CLIENT_URI = mongodb://zunaSuperAdmin:zuna123987@mongo-db:27017/admin;
 
 	// Uncomment this line for mysql server version 8+
 	public static final String JDBC_DRIVER_MYSQL = "com.mysql.cj.jdbc.Driver";
